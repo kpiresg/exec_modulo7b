@@ -25,6 +25,7 @@ public class ClubeDeFutebol {
         return idadeDoClube;
     }
 
+    // Método para mostrar no terminal
     public void mostrarValores() {
         System.out.println("Nome do Clube: " + nome);
         System.out.println("Cor do clube: " + cor);
